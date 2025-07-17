@@ -1,0 +1,17 @@
+{
+    "selected_model": "logistic_regression",
+    "selected_hyperparameters": [
+        "C",
+        "penalty"
+    ],
+    "selected_columns": [
+        "Polyuria",
+        "Polydipsia",
+        "sudden weight loss",
+        "weakness",
+        "Polyphagia",
+        "visual blurring",
+        "Itching",
+        "partial paresis"
+    ]
+}
